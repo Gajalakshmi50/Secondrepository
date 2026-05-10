@@ -12,5 +12,6 @@ class BasePage{
     async fill(locator,value){
         await CommonUtils.fill(locator,value);
     }
+    #CheckingVStoGIT
 }
 module.exports=BasePage;
