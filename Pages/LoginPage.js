@@ -12,5 +12,6 @@ class LoginPage extends BasePage{
         await this.click(this.loginbutton);
     }
 #Login success
+#Login Failure
 }
 module.exports=LoginPage;
