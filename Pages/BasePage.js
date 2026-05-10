@@ -13,7 +13,8 @@ class BasePage{
         await CommonUtils.fill(locator,value);
     }
     #CheckingVStoGIT
-    #Conflictissue
+    #Concon
     #CheckingFromGitToVS
 }
 module.exports=BasePage;
+ #Conflictissue
